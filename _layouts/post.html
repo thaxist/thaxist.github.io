@@ -3,6 +3,7 @@ layout: default
 ---
 
 <article itemscope="" itemtype="http://schema.org/BlogPosting">
+  <p>{{ post.date | date: "%b %-d, %Y" }}</p>
   <h1 itemprop="name">{{ page.title }}</h1>
   {{ content }}
 </section>
