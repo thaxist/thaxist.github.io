@@ -4,9 +4,10 @@ title: Articles
 permalink: /articles.html
 ---
 [Questioning the Hype about Artificial Intelligence](http://www.theatlantic.com/technology/archive/2015/05/the-humanists-paradox/391622/)
-in The Atlantic
+at The Atlantic
 
 [The Limits of Modern AI: A Story](http://www.thebestschools.org/magazine/limits-of-modern-ai/)
+at The Best Schools Magazine
 
 [A Brief History of Computer Chess](http://www.thebestschools.org/magazine/brief-history-of-computer-chess/)
 at The Best Schools Magazine
