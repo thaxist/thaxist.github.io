@@ -19,5 +19,7 @@ at The Best Schools Magazine
 at The Best Schools Magazine
 
 [Big Neuroscience](http://inference-review.com/article/big-neuroscience)
-at Inference
+at Inference - The International Review of Science
+
+
 
