@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"
+  itemscope="" itemtype="http://schema.org/WebPage">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="description" content="{{ page.description }}" />
+    <meta name="keywords" content="{{ page.keywords | join:', ' | xml_escape }}" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"/>
+    <link rel="stylesheet" href="/css/main.css"/>
+  </head>
+  <body>
+    <section>
+      <header class="header">
+        <a href="/about.html">
+          <img src="/images/erik-larson.jpg" class="photo" alt="Erik Larson"/>
+        </a>
+        <nav>
+          <ul>
+            <li><a href="https://twitter.com/intent/follow?screen_name=thaxist" title="follow me in Twitter">twitter</a></li>
+            <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="RSS feed">RSS</a></li>
+            <li><a href="https://www.linkedin.com/in/yegor256" title="my LinkedIn profile"><i class="icon icon-linkedin notranslate" aria-hidden="true"></i></a></li>
+            <li><a href="mailto:erik@thaxist.com" title="erik@thaxist.com">erik@thaxist.com</a></li>
+          </ul>
+          <ul>
+            <li><a href="/" title="home page">home</a></li>
+            <li><a href="/about.html" title="bio">bio</a></li>
+            <li><a href="/articles.html" title="articles">articles</a></li>
+          </ul>
+        </nav>
+        <div class="search">
+          <form method="get" action="https://www.google.com/search">
+            <input name="sitesearch" value="thaxist.com" type="hidden"/>
+            <input type="text" name="q" placeholder="Search" autocomplete="off"/>
+            <input type="button" value="Search" />
+          </form>
+        </div>
+      </header>
+      {{ content }}
+    </section>
+  </body>
+</html>
