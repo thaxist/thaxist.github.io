@@ -30,3 +30,6 @@ at The Association for the Advancement of Artificial Intelligence (AAAI)
 [A knowledge-based approach to network security: applying Cyc in the domain of network risk assessment](http://dl.acm.org/citation.cfm?id=1620092.1620110)
 at Proceedings of the 17th conference on Innovative applications of artificial intelligence 2005
 
+[Focused Knowledge Bases for Multi-disciplinary, Multi-sector Decision Making](http://citeseerx.ist.psu.edu/viewdoc/citations?doi=10.1.1.201.2760)
+at CiteSeerX
+
