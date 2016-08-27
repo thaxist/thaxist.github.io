@@ -36,3 +36,6 @@ at Proceedings of the 17th conference on Innovative applications of artificial i
 [Focused Knowledge Bases for Multi-disciplinary, Multi-sector Decision Making](http://citeseerx.ist.psu.edu/viewdoc/citations?doi=10.1.1.201.2760)
 at CiteSeerX
 
+[Looking for the Mind](http://www.leaderu.com/orgs/arn/odesign/od181/larson181.htm)
+at Origins and Design
+
