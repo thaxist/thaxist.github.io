@@ -39,6 +39,4 @@ Tumblr blog on your mobile device. But the deeper question here is whether you
 have anything much to say on a blog in the first place, and whether the Web
 environment is cordial and prepared to hear it, if you do. Maybe Tumblr's
 counter-steer is minimal, but one hopes that further and more meaningful changes
-are still to come. <div> 
-
-</div>
+are still to come.
