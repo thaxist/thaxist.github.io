@@ -48,7 +48,7 @@ confident that there'll be some way of fitting it into an information terms
 framework. My point here is that it's small solace for finding that illusive
 theory in the first place.
 
-Shannon himeself&mdash;the pioneer of information theory (Hurray! 
+Shannon himself&mdash;the pioneer of information theory (Hurray! 
 Boo!)&mdash;bluntly dismissed any mystery when formalizing the theory, saying in
 effect that we should ignore what happens with the sender and receiver, and how
 it gets translated into meaning and so on. This is the "hard problem" of
