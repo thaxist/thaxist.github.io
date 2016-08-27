@@ -48,7 +48,15 @@ article {
     font-weight: bold;
     font-size: 1.8em;
   }
-  p {
-    margin-top: 1em;
+  h2 {
+    font-weight: bold;
+    font-size: 1.4em;
+  }
+  p, h1, h2, h3, ul, ol {
+    margin-top: .5em;
+    margin-bottom: .5em;
+  }
+  ul, ol {
+    margin-left: 3em;
   }
 }
