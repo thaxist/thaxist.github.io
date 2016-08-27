@@ -24,5 +24,18 @@ at Inference - The International Review of Science
 [The New In-Crowd](http://www.sv411.com/index.php/2012/06/startup-experts-debate-merits-crowdfunding/)
 at The Metro Silicon Valley
 
+[Looking for the Mind](http://www.leaderu.com/orgs/arn/odesign/od181/larson181.htm)
+at Origins and Design
 
+[Relational Recognition for Information Extraction in Free Text Documents](http://www.aaai.org/Papers/Symposia/Spring/2005/SS-05-01/SS05-01-027.pdf)
+at The Association for the Advancement of Artificial Intelligence (AAAI)
+
+[A knowledge-based approach to network security: applying Cyc in the domain of network risk assessment](http://dl.acm.org/citation.cfm?id=1620092.1620110)
+at Proceedings of the 17th conference on Innovative applications of artificial intelligence 2005
+
+[Focused Knowledge Bases for Multi-disciplinary, Multi-sector Decision Making](http://citeseerx.ist.psu.edu/viewdoc/citations?doi=10.1.1.201.2760)
+at CiteSeerX
+
+[Looking for the Mind](http://www.leaderu.com/orgs/arn/odesign/od181/larson181.htm)
+at Origins and Design
 
