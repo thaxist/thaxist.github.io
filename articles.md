@@ -27,5 +27,6 @@ at The Metro Silicon Valley
 [Relational Recognition for Information Extraction in Free Text Documents](http://www.aaai.org/Papers/Symposia/Spring/2005/SS-05-01/SS05-01-027.pdf)
 at The Association for the Advancement of Artificial Intelligence (AAAI)
 
-
+[A knowledge-based approach to network security: applying Cyc in the domain of network risk assessment](http://dl.acm.org/citation.cfm?id=1620092.1620110)
+at Proceedings of the 17th conference on Innovative applications of artificial intelligence 2005
 
