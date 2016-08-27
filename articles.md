@@ -24,6 +24,9 @@ at Inference - The International Review of Science
 [The New In-Crowd](http://www.sv411.com/index.php/2012/06/startup-experts-debate-merits-crowdfunding/)
 at The Metro Silicon Valley
 
+[Looking for the Mind](http://www.leaderu.com/orgs/arn/odesign/od181/larson181.htm)
+at Origins and Design
+
 [Relational Recognition for Information Extraction in Free Text Documents](http://www.aaai.org/Papers/Symposia/Spring/2005/SS-05-01/SS05-01-027.pdf)
 at The Association for the Advancement of Artificial Intelligence (AAAI)
 
