@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How is Jarvis AI?"
-date: 2007-10-01
+date: 2016-08-31
 categories: ai
 ---
 
