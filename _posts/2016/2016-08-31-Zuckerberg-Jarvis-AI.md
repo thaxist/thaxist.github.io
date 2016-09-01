@@ -5,7 +5,7 @@ date: 2016-08-31
 categories: ai
 ---
 
-Everything is AI these days, especially face and voice recognition software.  Take [Jarvis](http://www.usatoday.com/story/tech/news/2016/08/29/zuckerberg-may-debut-jarvis-ai-assistant-next-month/89566074/) Facebook CEO Mark Zuckerberg's latest public relations ploy, complete with stock quips about annoying his wife with gadgetry.  The prototype, named after the butler-voiced AI assistant to [Tony Stark](https://en.wikipedia.org/wiki/Iron_Man) of blockbuster movie "Iron Man" fame, controls Zuckerberg's home environment by translating his voice and location into commands, like changing room temperature, or opening a gate or door.
+Everything is AI these days, especially face and voice recognition software.  Take [Jarvis](http://www.usatoday.com/story/tech/news/2016/08/29/zuckerberg-may-debut-jarvis-ai-assistant-next-month/89566074/), Facebook CEO Mark Zuckerberg's latest public relations ploy, complete with stock quips about annoying his wife with gadgetry.  The prototype, named after the butler-voiced AI assistant to [Tony Stark](https://en.wikipedia.org/wiki/Iron_Man) of blockbuster movie "Iron Man" fame, controls Zuckerberg's home environment by translating his voice and location into commands, like changing room temperature, or opening a gate or door.
 
 Fine.  Sure.  This kind of geek tech is cool (I suppose), but how, exactly, is it "AI"?  The knee-jerk response I often hear is that AI is the reproduction of behavior or thinking that once required the human brain.  Sure, like the desk calculator, as an astute reader pointed out recently in a prior post.  (After all, who can multiply large numbers in their head quickly?)
 
