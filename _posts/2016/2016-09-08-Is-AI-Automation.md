@@ -1,9 +1,9 @@
-+---
+---
 layout: post
 title: "Is Artificial Intelligence Just Automation?"
 date: 2016-09-07
 categories: ai
-+---
+---
  
 To many, "Artificial Intelligence" is an exciting concept.  It's sexy.  It's scary.  It's futuristic.  By contrast, "automation" sounds dull, mechanistic, and Orwellian.  It sounds like mindless machines, taking away what soul we have left on planet Earth.  There's an emotional difference between the two terms, for sure.  But is there a real difference?  What is AI, anyway?  How exactly is it different than automation?
  
